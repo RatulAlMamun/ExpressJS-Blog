@@ -1,0 +1,22 @@
+{
+  "name": "expressjs-blog",
+  "version": "1.0.0",
+  "description": "This project is for practice purpose. Learning about Express JS and explored by creating this project with CRUD operations, Authentication, Middleware, Routes etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RatulAlMamun/ExpressJS-Blog.git"
+  },
+  "author": "Ratul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RatulAlMamun/ExpressJS-Blog/issues"
+  },
+  "homepage": "https://github.com/RatulAlMamun/ExpressJS-Blog#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
